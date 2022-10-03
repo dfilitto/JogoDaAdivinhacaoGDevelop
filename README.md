@@ -1,0 +1,2 @@
+# JogoDaAdivinhacaoGDevelop
+JogoDaAdivinhacaoGDevelop
