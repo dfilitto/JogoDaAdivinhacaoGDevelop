@@ -1,4 +1,4 @@
-![](https://github.com/dfilitto/EstoriasInterativasGDevelop/blob/main/GDevelop%20-%20Construindo%20uma%20est%C3%B3ria%20interativa.jpg?raw=true)
+![](https://github.com/dfilitto/JogoDaAdivinhacaoGDevelop/blob/main/GDevelop%20-%20Jogo%20da%20adivinha%C3%A7%C3%A3o.jpg?raw=true)
 # [GDevelop - Jogo Da Adivinhação](https://www.youtube.com/playlist?list=PLfvOpw8k80Wpfd9OfQdd-yQE0fHen4acn)
 
 Já pensou em criar jogos sem precisar saber programação e de maneirá fácil e rápida.
